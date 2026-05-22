@@ -1,2 +1,11 @@
 # ANOVA-Project
 In this project, I analyse the effects of polyethene mulch on soil properties and soybean yield using Anova (Analysis of Variance)
+
+Tillage is one of the basic agronomic practices commonly carried out in the field , it is done to increase productivity and yield but recent studies has shown that in other to conserve soil nutrients, mitigate the occurance of erosion and minimize cost and labour , one may adopt the no tillage practice which is planting on unploughed or untilled land .
+The results of the influence of the tillage and mulch showed that soybean performed better in the interaction of tillage systems Conventional tillage(CT) and No tillage (NT) and mulch in terms of plant height in all the growth stages and leaf area in 6 and 9 weeks after planting than in the tillage systems alone. This means that the tillage systems in combination with surface mulching with different mulch material is benefical to the soil health and also to soybean growth, yield and productivity.
+           
+Furthermore the use of surface mulch material such as polythene of contrasting colors and grass may have some effects on soil temperature, plant height and leave area but had no effect on the number of leaves in all the growth stages. Therefore the results of the study suggest that the tillage practices (CT and NT) and mulching with different mulch materials reflected on soybean performance and productivity. 
+Mulching with mulch materials showed a significant difference on soil temperature corresponding to 3, 4, 5, 6, 7, 8, 10, 11, 13 and 14 weeks after planting (WAP) and had no significant effect on 9 WAP and 12 WAP respectively.
+This shows that the mean effect of temperature was significant on the contrasting colors of plastic mulch, bare land(control) and grass with transparent, brown and blue being higher with (43◦C, 41◦C,39◦C) in 3 WAP and (41◦C, 41◦C, 39◦C) in 4 WAP respectively than grass and control.
+Therefore any grower who intends to increase the soil temperature can use colored plastic mulches. But, the decision on selecting the type of colors depends on the climate, soil type, crop type, and intended purpose.
+ Farmers and agriculturist should aim to incorporate mulching as one of it's management practices due to it's benefical effects on the soybean performance and soil properties.
