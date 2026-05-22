@@ -1,5 +1,5 @@
 # ANOVA-Project
-In this project, I analyse the effects of polyethene mulch on soil properties and soybean yield using Anova (Analysis of Variance)
+In this project, I analyse the effects of polyethene mulch and tillage on soil properties and soybean yield using Anova (Analysis of Variance)
 
 Tillage is one of the basic agronomic practices commonly carried out in the field , it is done to increase productivity and yield but recent studies has shown that in other to conserve soil nutrients, mitigate the occurance of erosion and minimize cost and labour , one may adopt the no tillage practice which is planting on unploughed or untilled land .
 The results of the influence of the tillage and mulch showed that soybean performed better in the interaction of tillage systems Conventional tillage(CT) and No tillage (NT) and mulch in terms of plant height in all the growth stages and leaf area in 6 and 9 weeks after planting than in the tillage systems alone. This means that the tillage systems in combination with surface mulching with different mulch material is benefical to the soil health and also to soybean growth, yield and productivity.
